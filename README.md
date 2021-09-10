@@ -7,7 +7,7 @@
 <img src="detection.PNG"> <br/>
 
 ## Part 2 : using Detectron2 to detect the pothole in street 
-<img src="learning metrics.PNG"> <br/>
+<img src="detectron2 .PNG"> <br/>
 
 #### Learning metrics: 
 <img src="learning metrics.PNG"> <br/>
